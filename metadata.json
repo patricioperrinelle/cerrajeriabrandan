@@ -1,0 +1,6 @@
+{
+  "name": "Cerrajería Brandan",
+  "description": "Servicios de cerrajería de autos y casas las 24 horas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
